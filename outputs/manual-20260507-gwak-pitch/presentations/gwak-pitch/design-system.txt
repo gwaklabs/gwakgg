@@ -1,0 +1,20 @@
+Slide size: 1280x720.
+Background: warm off-white base with deep ink panels for chapter emphasis.
+Typography: Avenir Next for labels and body, Georgia for editorial claim titles.
+Palette:
+- Ink: #111318
+- Paper: #F7F2EA
+- Soft text: #6C6A61
+- Rule: #DED6CA
+- Solana green: #32D583
+- Signal yellow: #F2B84B
+- Market blue: #3E7BFA
+- Deep panel: #17181D
+- Lavender accent: #8B5CF6
+Chart grammar: authored editable shapes, direct labels, no legends where labels fit.
+Diagram grammar: lanes and nodes encode workflow stages; connectors only indicate actual movement or relationship.
+Container grammar: no nested cards; panels are used for proof objects and repeated items only.
+Footer grammar: subtle rule, source note, page marker.
+Brand asset policy: use text "gwak.gg" only; do not create or approximate a logo.
+Allowed layout families: cover thesis, fragmentation map, triangle model, product mockup, journey map, architecture map, before/after, monetization bridge, roadmap.
+Banned motifs: fake logos, speculative metrics, decorative gradients, and edgy trading slang.

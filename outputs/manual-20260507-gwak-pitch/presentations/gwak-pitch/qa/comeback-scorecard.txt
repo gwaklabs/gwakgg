@@ -1,0 +1,17 @@
+Initial self-score before render:
+- story: 4
+- specificity: 4
+- rhythm: 4
+- whitespace: 4
+- chart clarity: 4
+- typography: 4
+- restraint: 4
+- precision: 4
+- coherence: 4
+- reference delta: n/a
+
+Profile gates:
+- Platform map/workflow included.
+- Product-to-financial linkage included.
+- No generic feature-card grid cadence.
+- No fabricated metrics, logos, screenshots, or unverified partner assets.

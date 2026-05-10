@@ -1,0 +1,17 @@
+Primary source: AGENTS.md instructions supplied in thread for /Users/yordanlasonov/Documents/GitHub/fast-bet.
+Secondary source: docs/superpowers/specs/2026-05-04-fast-bet-design.md, treated as historical context where it differs from the shipped code.
+
+Used facts:
+- Product now branded gwak.gg.
+- Three rails are Meme, Prediction, and Whale.
+- Execution is on Solana mainnet with Privy embedded Solana wallet.
+- Core user action uses preset stakes: $5, $10, $20, $50.
+- Prediction liquidity comes through Jupiter Prediction, which aggregates Polymarket and Kalshi liquidity.
+- Meme execution uses Jupiter Swap.
+- Whale signals come from Hyperliquid and execution is Solana-native through Flash Trade in the shipped code.
+- Gasless path uses a server fee payer and charges a 0.5% + $0.05 platform fee per open.
+- Product uses a vertical-scroll feed, balance pill, deposit, portfolio, close, and withdraw flows.
+
+Copy constraints:
+- Avoid edgy trading slang.
+- Frame the product as discovery and execution infrastructure for active market users.

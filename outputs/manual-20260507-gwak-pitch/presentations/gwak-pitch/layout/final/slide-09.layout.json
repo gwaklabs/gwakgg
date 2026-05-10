@@ -1,0 +1,966 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/m3a208",
+    "id": "m3a208",
+    "slide": 9,
+    "layoutId": "b8acbcb9-326a-4da1-b7f0-a14f6cba9325",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "b7974ed5-205e-452d-b799-274110115130",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Avenir Next",
+      "Georgia"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b8acbcb9-326a-4da1-b7f0-a14f6cba9325",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "b7974ed5-205e-452d-b799-274110115130",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "b7974ed5-205e-452d-b799-274110115130",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jm1cfa9w",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7F2EA",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7u54zid",
+      "id": "2",
+      "bbox": [
+        58,
+        52,
+        10,
+        10
+      ],
+      "geometry": "rect",
+      "fillColor": "#32D583",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1orytsvu",
+      "id": "3",
+      "bbox": [
+        82,
+        45,
+        520,
+        24
+      ],
+      "geometry": "rect",
+      "text": "L A U N C H   P A T H",
+      "textPreview": "L A U N C H   P A T H",
+      "resolvedFontSize": 9.51,
+      "resolvedTextStyle": {
+        "fontSize": 9.51,
+        "typeface": "Avenir Next",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L A U N C H   P A T H"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L A U N C H   P A T H",
+          "runs": [
+            {
+              "index": 1,
+              "text": "L A U N C H   P A T H",
+              "fontSize": 9.51,
+              "typeface": "Avenir Next",
+              "color": "#6C6A61",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9knih4b",
+      "id": "4",
+      "bbox": [
+        58,
+        92,
+        780,
+        102
+      ],
+      "geometry": "rect",
+      "text": "MVP scope is narrow enough to ship, but broad enough to own the workflow.",
+      "textPreview": "MVP scope is narrow enough to ship, but broad enough to own the workflow.",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "fontSize": 37,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MVP scope is narrow enough to ship, but"
+          },
+          {
+            "index": 2,
+            "text": "broad enough to own the workflow."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MVP scope is narrow enough to ship, but broad enough to own the workflow.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "MVP scope is narrow enough to ship, but broad enough to own the workflow.",
+              "fontSize": 37,
+              "typeface": "Georgia",
+              "color": "#111318",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/judg7ads",
+      "id": "5",
+      "bbox": [
+        58,
+        210,
+        760,
+        54
+      ],
+      "geometry": "rect",
+      "text": "The first version proves the loop with real feeds, real Solana execution, and one portfolio. Expansion can then come from better ranking, watchlists, and deeper rail coverage.",
+      "textPreview": "The first version proves the loop with real feeds, real Solana execution, and one portfolio. Expansion can then come from better ranking,...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Avenir Next",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The first version proves the loop with real feeds, real Solana execution, and one portfolio. Expansion can"
+          },
+          {
+            "index": 2,
+            "text": "then come from better ranking, watchlists, and deeper rail coverage."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The first version proves the loop with real feeds, real Solana execution, and one portfolio. Expansion can then come from better ranking, watchlists, and deeper rail coverage.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "The first version proves the loop with real feeds, real Solana execution, and one portfolio. Expansion can then come from better ranking, watchlists, and deeper rail coverage.",
+              "fontSize": 16,
+              "typeface": "Avenir Next",
+              "color": "#6C6A61"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cfa9w3m9",
+      "id": "6",
+      "bbox": [
+        90,
+        360,
+        220,
+        98
+      ],
+      "geometry": "rect",
+      "fillColor": "#FBF8F1",
+      "lineColor": "#32D583",
+      "lineWidth": 2
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1032lszq",
+      "id": "7",
+      "bbox": [
+        112,
+        382,
+        176,
+        25
+      ],
+      "geometry": "rect",
+      "text": "Now",
+      "textPreview": "Now",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Now"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Now",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Now",
+              "fontSize": 20,
+              "typeface": "Georgia",
+              "color": "#111318",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udg7adsj",
+      "id": "8",
+      "bbox": [
+        110,
+        420,
+        180,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Ship waitlist and live demo loop",
+      "textPreview": "Ship waitlist and live demo loop",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "fontSize": 10.51,
+        "typeface": "Avenir Next",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Ship waitlist and live demo loop"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Ship waitlist and live demo loop",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ship waitlist and live demo loop",
+              "fontSize": 10.51,
+              "typeface": "Avenir Next",
+              "color": "#6C6A61"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "9",
+      "bbox": [
+        310,
+        409,
+        66,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#32D583",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6psfil0",
+      "id": "10",
+      "bbox": [
+        376,
+        360,
+        220,
+        98
+      ],
+      "geometry": "rect",
+      "fillColor": "#17181D",
+      "lineColor": "#F2B84B",
+      "lineWidth": 2
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lszqtcj",
+      "id": "11",
+      "bbox": [
+        398,
+        382,
+        176,
+        25
+      ],
+      "geometry": "rect",
+      "text": "MVP",
+      "textPreview": "MVP",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MVP"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MVP",
+          "runs": [
+            {
+              "index": 1,
+              "text": "MVP",
+              "fontSize": 20,
+              "typeface": "Georgia",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8bat47y",
+      "id": "12",
+      "bbox": [
+        396,
+        420,
+        180,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Three rails, one wallet, portfolio",
+      "textPreview": "Three rails, one wallet, portfolio",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "fontSize": 10.51,
+        "typeface": "Avenir Next",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Three rails, one wallet, portfolio"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Three rails, one wallet, portfolio",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Three rails, one wallet, portfolio",
+              "fontSize": 10.51,
+              "typeface": "Avenir Next",
+              "color": "#D8D4CC"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knih4byh",
+      "id": "13",
+      "bbox": [
+        596,
+        409,
+        66,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#F2B84B",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9knih4",
+      "id": "14",
+      "bbox": [
+        662,
+        360,
+        220,
+        98
+      ],
+      "geometry": "rect",
+      "fillColor": "#FBF8F1",
+      "lineColor": "#3E7BFA",
+      "lineWidth": 2
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29gr2p8n",
+      "id": "15",
+      "bbox": [
+        684,
+        382,
+        176,
+        25
+      ],
+      "geometry": "rect",
+      "text": "Next",
+      "textPreview": "Next",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Next"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Next",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Next",
+              "fontSize": 20,
+              "typeface": "Georgia",
+              "color": "#111318",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "16",
+      "bbox": [
+        682,
+        420,
+        180,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Personalized discovery and alerts",
+      "textPreview": "Personalized discovery and alerts",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "fontSize": 10.51,
+        "typeface": "Avenir Next",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Personalized discovery and alerts"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Personalized discovery and alerts",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Personalized discovery and alerts",
+              "fontSize": 10.51,
+              "typeface": "Avenir Next",
+              "color": "#6C6A61"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "17",
+      "bbox": [
+        882,
+        409,
+        66,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#3E7BFA",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vixczed8",
+      "id": "18",
+      "bbox": [
+        948,
+        360,
+        220,
+        98
+      ],
+      "geometry": "rect",
+      "fillColor": "#FBF8F1",
+      "lineColor": "#8B5CF6",
+      "lineWidth": 2
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4nap4r",
+      "id": "19",
+      "bbox": [
+        970,
+        382,
+        176,
+        25
+      ],
+      "geometry": "rect",
+      "text": "Scale",
+      "textPreview": "Scale",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Scale"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Scale",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Scale",
+              "fontSize": 20,
+              "typeface": "Georgia",
+              "color": "#111318",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex0nuxc3",
+      "id": "20",
+      "bbox": [
+        968,
+        420,
+        180,
+        24
+      ],
+      "geometry": "rect",
+      "text": "More markets, deeper analytics",
+      "textPreview": "More markets, deeper analytics",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "fontSize": 10.51,
+        "typeface": "Avenir Next",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "More markets, deeper analytics"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "More markets, deeper analytics",
+          "runs": [
+            {
+              "index": 1,
+              "text": "More markets, deeper analytics",
+              "fontSize": 10.51,
+              "typeface": "Avenir Next",
+              "color": "#6C6A61"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3itgfmlk",
+      "id": "21",
+      "bbox": [
+        226,
+        552,
+        828,
+        62
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "#DED6CA",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3m94fu1",
+      "id": "22",
+      "bbox": [
+        260,
+        566,
+        760,
+        40
+      ],
+      "geometry": "rect",
+      "text": "Ask: launch partners, early users, and capital to turn the unified market feed into the default daily workflow.",
+      "textPreview": "Ask: launch partners, early users, and capital to turn the unified market feed into the default daily workflow.",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Avenir Next",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Ask: launch partners, early users, and capital to turn the unified market feed into the default daily"
+          },
+          {
+            "index": 2,
+            "text": "workflow."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Ask: launch partners, early users, and capital to turn the unified market feed into the default daily workflow.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ask: launch partners, early users, and capital to turn the unified market feed into the default daily workflow.",
+              "fontSize": 15,
+              "typeface": "Avenir Next",
+              "color": "#111318",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/loj2t83i",
+      "id": "23",
+      "bbox": [
+        58,
+        676,
+        1164,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#DED6CA",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e9cvixcz",
+      "id": "24",
+      "bbox": [
+        58,
+        688,
+        840,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Roadmap framed around shipped repo capabilities and near-term product scope",
+      "textPreview": "Roadmap framed around shipped repo capabilities and near-term product scope",
+      "resolvedFontSize": 7.51,
+      "resolvedTextStyle": {
+        "fontSize": 7.51,
+        "typeface": "Avenir Next",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Roadmap framed around shipped repo capabilities and near-term product scope"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Roadmap framed around shipped repo capabilities and near-term product scope",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Roadmap framed around shipped repo capabilities and near-term product scope",
+              "fontSize": 7.51,
+              "typeface": "Avenir Next",
+              "color": "#6C6A61"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3q5o7qpg",
+      "id": "25",
+      "bbox": [
+        1176,
+        682,
+        48,
+        22
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 12,
+              "typeface": "Georgia",
+              "color": "#6C6A61",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

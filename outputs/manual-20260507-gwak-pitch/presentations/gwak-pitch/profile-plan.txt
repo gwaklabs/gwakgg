@@ -1,0 +1,18 @@
+Task mode: create
+Primary deck-profile: product-platform
+Secondary gates: gtm-growth, because the pitch must explain discovery and monetization.
+
+Required proof objects:
+- Fragmentation map: many apps, wallets, chains, and balances collapse into one funded surface.
+- Related-rails model: meme tokens, prediction markets, and whale position signals inform each other.
+- Product workflow: feed discovery, one-tap stake, portfolio, close/withdraw.
+- Architecture map: signal sources, heat scoring, feed, Solana execution, wallet layer.
+- Product-to-financial linkage: platform fee, frequency, and expansion surface.
+
+Source/asset requirements:
+- Use local repository guidance and product specs only.
+- No unverified logo, mascot, app icon, partner mark, or product screenshot.
+- Use editable geometric product diagrams instead of fabricated UI screenshots.
+
+Known missing inputs:
+- No traction metrics, fundraising target, or customer research numbers were provided, so the deck avoids invented TAM, usage, or revenue figures.

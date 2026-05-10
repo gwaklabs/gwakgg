@@ -1,0 +1,20 @@
+Thesis: gwak.gg turns three related market behaviors into one discovery and execution surface, removing the wallet and chain fragmentation that slows active users down.
+
+Audience: early investors, crypto product partners, and launch collaborators.
+
+One-line arc: The market is fragmented, the signals are connected, and gwak.gg makes the connected workflow usable through one Solana wallet.
+
+Slide list:
+1. Cover - gwak.gg is the unified market feed for three related rails. Proof object: thesis lockup with three-rail system.
+2. Problem - users are forced to split attention and capital across too many apps, chains, and wallets. Proof object: fragmentation map.
+3. Insight - meme tokens, prediction markets, and whale positions are often part of the same discovery loop. Proof object: related-rails triangle.
+4. Product - one vertical feed turns discovery into action without changing venues. Proof object: phone/feed mockup.
+5. Workflow - the product replaces scattered tabs with a five-step user journey. Proof object: linear journey map.
+6. Architecture - live external signals resolve into Solana execution. Proof object: signal-to-execution system diagram.
+7. Wallet Layer - one funded USDC wallet removes balance fragmentation. Proof object: before/after wallet map.
+8. Business Model - small execution fees monetize frequency without charging exits. Proof object: fee bridge and value loop.
+9. Launch Path - MVP is narrow enough to ship and broad enough to expand. Proof object: phased roadmap and ask.
+
+Omission notes:
+- No TAM, traction, conversion, or revenue estimates are included because source data was not provided.
+- No partner logos or product screenshots are included because verified assets were not supplied.

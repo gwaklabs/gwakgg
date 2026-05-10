@@ -1,0 +1,1119 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/1l9vzy",
+    "id": "1l9vzy",
+    "slide": 8,
+    "layoutId": "b8acbcb9-326a-4da1-b7f0-a14f6cba9325",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "b7974ed5-205e-452d-b799-274110115130",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Avenir Next",
+      "Georgia"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b8acbcb9-326a-4da1-b7f0-a14f6cba9325",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "b7974ed5-205e-452d-b799-274110115130",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "b7974ed5-205e-452d-b799-274110115130",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fil0rqd4",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#17181D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83itgfml",
+      "id": "2",
+      "bbox": [
+        58,
+        52,
+        10,
+        10
+      ],
+      "geometry": "rect",
+      "fillColor": "#32D583",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xobm58z2",
+      "id": "3",
+      "bbox": [
+        82,
+        45,
+        520,
+        24
+      ],
+      "geometry": "rect",
+      "text": "B U S I N E S S   M O D E L",
+      "textPreview": "B U S I N E S S   M O D E L",
+      "resolvedFontSize": 9.51,
+      "resolvedTextStyle": {
+        "fontSize": 9.51,
+        "typeface": "Avenir Next",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "B U S I N E S S   M O D E L"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "B U S I N E S S   M O D E L",
+          "runs": [
+            {
+              "index": 1,
+              "text": "B U S I N E S S   M O D E L",
+              "fontSize": 9.51,
+              "typeface": "Avenir Next",
+              "color": "#CFC8BD",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m94fu18j",
+      "id": "4",
+      "bbox": [
+        58,
+        92,
+        770,
+        102
+      ],
+      "geometry": "rect",
+      "text": "The model monetizes execution frequency while keeping exits free.",
+      "textPreview": "The model monetizes execution frequency while keeping exits free.",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "fontSize": 36,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The model monetizes execution"
+          },
+          {
+            "index": 2,
+            "text": "frequency while keeping exits free."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The model monetizes execution frequency while keeping exits free.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "The model monetizes execution frequency while keeping exits free.",
+              "fontSize": 36,
+              "typeface": "Georgia",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fu18jqh0",
+      "id": "5",
+      "bbox": [
+        58,
+        210,
+        750,
+        56
+      ],
+      "geometry": "rect",
+      "text": "Each open can carry a small platform fee, while portfolio closes and withdrawals stay free. That keeps the product aligned with fast discovery and responsible position management.",
+      "textPreview": "Each open can carry a small platform fee, while portfolio closes and withdrawals stay free. That keeps the product aligned with fast disc...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Avenir Next",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Each open can carry a small platform fee, while portfolio closes and withdrawals stay free. That keeps"
+          },
+          {
+            "index": 2,
+            "text": "the product aligned with fast discovery and responsible position management."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Each open can carry a small platform fee, while portfolio closes and withdrawals stay free. That keeps the product aligned with fast discovery and responsible position management.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Each open can carry a small platform fee, while portfolio closes and withdrawals stay free. That keeps the product aligned with fast discovery and responsible position management.",
+              "fontSize": 16,
+              "typeface": "Avenir Next",
+              "color": "#D8D4CC"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fu18jqh",
+      "id": "6",
+      "bbox": [
+        86,
+        346,
+        308,
+        150
+      ],
+      "geometry": "rect",
+      "fillColor": "#22242B",
+      "lineColor": "#3A3D45",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0nuxc3y",
+      "id": "7",
+      "bbox": [
+        120,
+        374,
+        240,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Open position",
+      "textPreview": "Open position",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Open position"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Open position",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Open position",
+              "fontSize": 18,
+              "typeface": "Georgia",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlkjm1cf",
+      "id": "8",
+      "bbox": [
+        120,
+        420,
+        240,
+        34
+      ],
+      "geometry": "rect",
+      "text": "0.5% + $0.05",
+      "textPreview": "0.5% + $0.05",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "fontSize": 28,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "0.5% + $0.05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "0.5% + $0.05",
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.5% + $0.05",
+              "fontSize": 28,
+              "typeface": "Georgia",
+              "color": "#32D583",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6dcbulw",
+      "id": "9",
+      "bbox": [
+        120,
+        462,
+        240,
+        16
+      ],
+      "geometry": "rect",
+      "text": "platform fee",
+      "textPreview": "platform fee",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "Avenir Next",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "platform fee"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "platform fee",
+          "runs": [
+            {
+              "index": 1,
+              "text": "platform fee",
+              "fontSize": 10,
+              "typeface": "Avenir Next",
+              "color": "#D8D4CC"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vixczed8",
+      "id": "10",
+      "bbox": [
+        486,
+        346,
+        308,
+        150
+      ],
+      "geometry": "rect",
+      "fillColor": "#22242B",
+      "lineColor": "#3A3D45",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4nap4r",
+      "id": "11",
+      "bbox": [
+        520,
+        374,
+        240,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Close / withdraw",
+      "textPreview": "Close / withdraw",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Close / withdraw"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Close / withdraw",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Close / withdraw",
+              "fontSize": 18,
+              "typeface": "Georgia",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/donyd0z6",
+      "id": "12",
+      "bbox": [
+        520,
+        416,
+        240,
+        44
+      ],
+      "geometry": "rect",
+      "text": "free",
+      "textPreview": "free",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "fontSize": 30,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "free"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "free",
+          "runs": [
+            {
+              "index": 1,
+              "text": "free",
+              "fontSize": 30,
+              "typeface": "Georgia",
+              "color": "#F2B84B",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3q5o7qp",
+      "id": "13",
+      "bbox": [
+        520,
+        462,
+        240,
+        16
+      ],
+      "geometry": "rect",
+      "text": "reduces exit anxiety",
+      "textPreview": "reduces exit anxiety",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "Avenir Next",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "reduces exit anxiety"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "reduces exit anxiety",
+          "runs": [
+            {
+              "index": 1,
+              "text": "reduces exit anxiety",
+              "fontSize": 10,
+              "typeface": "Avenir Next",
+              "color": "#D8D4CC"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/val87ed8",
+      "id": "14",
+      "bbox": [
+        886,
+        326,
+        270,
+        210
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7F2EA",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6psfil0r",
+      "id": "15",
+      "bbox": [
+        920,
+        356,
+        204,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Expansion logic",
+      "textPreview": "Expansion logic",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Expansion logic"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Expansion logic",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Expansion logic",
+              "fontSize": 18,
+              "typeface": "Georgia",
+              "color": "#111318",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "16",
+      "bbox": [
+        914,
+        410,
+        160,
+        20
+      ],
+      "geometry": "rect",
+      "text": "More signals",
+      "textPreview": "More signals",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "fontSize": 10.51,
+        "typeface": "Avenir Next",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "More signals"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "More signals",
+          "runs": [
+            {
+              "index": 1,
+              "text": "More signals",
+              "fontSize": 10.51,
+              "typeface": "Avenir Next",
+              "color": "#6C6A61",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1w7mp",
+      "id": "17",
+      "bbox": [
+        1088,
+        415,
+        22,
+        9
+      ],
+      "geometry": "rect",
+      "fillColor": "#ECE4D8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6psfil0",
+      "id": "18",
+      "bbox": [
+        1088,
+        415,
+        18.04,
+        9
+      ],
+      "geometry": "rect",
+      "fillColor": "#32D583",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lszqtcj",
+      "id": "19",
+      "bbox": [
+        914,
+        448,
+        160,
+        20
+      ],
+      "geometry": "rect",
+      "text": "More saved lists",
+      "textPreview": "More saved lists",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "fontSize": 10.51,
+        "typeface": "Avenir Next",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "More saved lists"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "More saved lists",
+          "runs": [
+            {
+              "index": 1,
+              "text": "More saved lists",
+              "fontSize": 10.51,
+              "typeface": "Avenir Next",
+              "color": "#6C6A61",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "20",
+      "bbox": [
+        1088,
+        453,
+        22,
+        9
+      ],
+      "geometry": "rect",
+      "fillColor": "#ECE4D8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "21",
+      "bbox": [
+        1088,
+        453,
+        14.52,
+        9
+      ],
+      "geometry": "rect",
+      "fillColor": "#F2B84B",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "22",
+      "bbox": [
+        914,
+        486,
+        160,
+        20
+      ],
+      "geometry": "rect",
+      "text": "More portfolio actions",
+      "textPreview": "More portfolio actions",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "fontSize": 10.51,
+        "typeface": "Avenir Next",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "More portfolio actions"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "More portfolio actions",
+          "runs": [
+            {
+              "index": 1,
+              "text": "More portfolio actions",
+              "fontSize": 10.51,
+              "typeface": "Avenir Next",
+              "color": "#6C6A61",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "23",
+      "bbox": [
+        1088,
+        491,
+        22,
+        9
+      ],
+      "geometry": "rect",
+      "fillColor": "#ECE4D8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "24",
+      "bbox": [
+        1088,
+        491,
+        12.76,
+        9
+      ],
+      "geometry": "rect",
+      "fillColor": "#3E7BFA",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "25",
+      "bbox": [
+        394,
+        421,
+        92,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#DED6CA",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "26",
+      "bbox": [
+        794,
+        421,
+        92,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#DED6CA",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "27",
+      "bbox": [
+        214,
+        594,
+        850,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Monetization grows with useful action, not with custody complexity.",
+      "textPreview": "Monetization grows with useful action, not with custody complexity.",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Avenir Next",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Monetization grows with useful action, not with custody complexity."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Monetization grows with useful action, not with custody complexity.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Monetization grows with useful action, not with custody complexity.",
+              "fontSize": 17,
+              "typeface": "Avenir Next",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5gbq1or",
+      "id": "28",
+      "bbox": [
+        58,
+        676,
+        1164,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#33343A",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m94fu18",
+      "id": "29",
+      "bbox": [
+        58,
+        688,
+        840,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Fee model from gasless trade implementation notes",
+      "textPreview": "Fee model from gasless trade implementation notes",
+      "resolvedFontSize": 7.51,
+      "resolvedTextStyle": {
+        "fontSize": 7.51,
+        "typeface": "Avenir Next",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Fee model from gasless trade implementation notes"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Fee model from gasless trade implementation notes",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fee model from gasless trade implementation notes",
+              "fontSize": 7.51,
+              "typeface": "Avenir Next",
+              "color": "#8F8C85"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "30",
+      "bbox": [
+        1176,
+        682,
+        48,
+        22
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Georgia",
+        "bold": true,
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 12,
+              "typeface": "Georgia",
+              "color": "#8F8C85",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

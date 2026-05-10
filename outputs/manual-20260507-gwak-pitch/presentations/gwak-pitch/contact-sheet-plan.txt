@@ -1,0 +1,11 @@
+1. Cover thesis with left title block and right three-rail stack.
+2. Fragmentation map with many scattered venues collapsing into user pain.
+3. Relationship triangle proving the three rails are discovery signals for each other.
+4. Vertical-feed phone mockup with three active card types.
+5. Horizontal user journey map.
+6. Full-width architecture diagram from sources to execution.
+7. Before/after wallet and balance simplification visual.
+8. Monetization and value-loop bridge.
+9. Roadmap with current MVP, launch, and expansion lanes.
+
+Macro-layout variety: 9 slides use 9 distinct families; no repeated title plus card grid cadence.
